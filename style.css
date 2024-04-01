@@ -1,0 +1,201 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: yellow;
+  box-sizing: border-box
+}
+img{
+  width: 100vw;
+}
+#contant{
+  display: flex;
+}
+#btn{
+  height: 10vh;
+  width: 10vh;
+  position: absolute;
+  margin: 2vh 0px 0px 1vh;
+  background-color: rgba(250,0,0,0);
+  border-style: none;
+}
+#btn2{
+  height: 10vh;
+  width: 10vh;
+  position: absolute;
+  margin: 2vh 0px 0px 12vh;
+  background-color: rgba(250,0,0,0);
+}
+#w{
+  height: 10vh;
+  width: 10vh;
+  position: absolute;
+  margin: 2vh 0px 0px 2vh;
+  background-color: rgba(250,0,0,0);
+  
+}
+#btn3{
+  height: 10vh;
+  width: 10vh;
+  position: absolute;
+  margin: 2vh 0px 0px 24vh;
+  background-color: rgba(250,0,0,0);
+}
+#c{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 0vh 0px 0px 0vh;
+  background-color: rgba(250,0,0,0);
+  
+}
+#h{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 2vh 0px 0px 0vh;
+  background-color: rgba(250,0,0,0);
+  
+}
+#btn4{
+  height: 10vh;
+  width: 10vh;
+  position: absolute;
+  margin: 2vh 0px 0px 36vh;
+  background-color: rgba(250,0,0,0);
+}
+#btn5{
+  height: 10vh;
+  width: 10vh;
+  position: absolute;
+  margin: 2vh 0px 0px 48vh;
+  background-color: rgba(250,0,0,0);
+  
+}
+#v{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 2.5vh 0px 0px 1vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#m{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 3vh 0px 0px 4vh;
+  background-color: rgba(250,0,0,0);
+}
+#q{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 4vh 0px 0px 2vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#i{
+  height: 10vh;
+  width: 10vh;
+  position: absolute ;
+  margin: 4vh 0px 0px 9vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#j{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 2.6vh 0px 0px 6vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#r{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 2vh 0px 0px 2vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#w{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 2vh 0px 0px 4vh;
+  background-color: rgba(250,0,0,0);
+}
+#n{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 3.5vh 0px 0px 4vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#s{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 2vh 0px 0px 3vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#x{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 2vh 0px 0px 4vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#o{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 3vh 0px 0px 4vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#t{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 1.5vh 0px 0px 3vh;
+  background-color: rgba(250,0,0,0);
+  border-style: ;
+}
+#y{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 1.5vh 0px 0px 4vh;
+  background-color: rgba(250,0,0,0);
+}
+#e{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 0vh 0px 0px 3vh;
+  background-color: rgba(250,0,0,0);
+}
+#k{
+  height: 13vh;
+  width: 10vh;
+  position: ;
+  margin: 2vh 0px 0px 4vh;
+  background-color: #fa000000;
+}
+button{
+  height: 10vh;
+  width: 10vh;
+  position: ;
+  margin: 1vh 0px 0px 1vh;
+  background-color: rgba(250,0,0,0);
+  display: block;
+  color: rgba(0,0,0,0);
+  border-style: block;
+  
+}
